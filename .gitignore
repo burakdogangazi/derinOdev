@@ -1,2 +1,12 @@
 lung_colon_image_set/
 venv/
+models/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+*.csv
+*.json 
